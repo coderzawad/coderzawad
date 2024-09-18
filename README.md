@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zawad</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Yoo!+Have+a+look+around)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderzawad&label=Profile%20views&color=0e75b6&style=flat" alt="coderzawad" /> </p>
 
 - 🌱 I’m currently expanding my skills with **Shopify App Bridge**
@@ -43,6 +45,6 @@
 
 <h3 align="left"></h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=coderzawad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=face&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <center><h5 align="center">"Time is money"- Benjamin Franklin</h5></center>
