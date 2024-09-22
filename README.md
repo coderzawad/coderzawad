@@ -46,10 +46,10 @@
 
 <h3 align="left"></h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderzawad)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderzawad&show_icons=true&theme=radical?hide_progress=true)
 
 <h3 align="left"></h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coderzawad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<center><h5 align="center">"Time is money"- Benjamin Franklin</h5></center>
+<center><h5 align="center">"Time is money"- Benjamin Franklin</h5></center>https://github-readme-stats.vercel.app/api/top-langs/?username=coderzawad?hideeprogress=trueti.
