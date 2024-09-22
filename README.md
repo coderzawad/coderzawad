@@ -45,11 +45,20 @@
 </a>
 
 <h3 align="left"></h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderzawad&show_icons=true&theme=radical?hide_progress=true)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=coderzawad&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=coderzawad&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=coderzawad&show_icons=true" />
+</picture>
 
 <h3 align="left"></h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coderzawad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<center><h5 align="center">"Time is money"- Benjamin Franklin</h5></center>https://github-readme-stats.vercel.app/api/top-langs/?username=coderzawad?hideeprogress=trueti.
+<center><h5 align="center">"Time is money"- Benjamin Franklin</h5></center>
