@@ -32,7 +32,7 @@
 ## 💻 Tech Stack
 
 ### Operating Systems
-![OS](https://skillicons.dev/icons?i=apple,windows)
+![OS](https://skillicons.dev/icons?i=apple,linux)
 
 ### Languages
 ![Languages](https://skillicons.dev/icons?i=js,html,css,bash,python,react,nodejs)
