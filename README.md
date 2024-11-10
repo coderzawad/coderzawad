@@ -12,7 +12,7 @@
 - 🌱 Currently expanding my skills with **Shopify App Bridge**
 - 👯 Looking to collaborate on **innovative web applications**
 - 🤝 Open to assistance or discussions about **React JS**
-- 👨‍💻 Check out my projects at [github.com/coderzawad](https://github.com/coderzawad?tab=repositories)
+- 👨‍💻 Check out my portfolio at [coderzawad](https://zawad.vercel.app/)
 - 💬 Ask me about **React, Express, Vanilla JS, Node JS**
 - 📫 Reach me at **zawad@devsnest.llc**
 - ⚡ Fun fact: **I believe I have a great sense of humor!**
