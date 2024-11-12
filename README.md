@@ -35,7 +35,7 @@
 ![OS](https://skillicons.dev/icons?i=apple,linux)
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,html,css,bash,python,react,nodejs)
+![Languages](https://skillicons.dev/icons?i=js,ts,html,css,bash,python,react,nodejs)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=vscode,aftereffects,photoshop,github,git,neovim)
