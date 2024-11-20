@@ -38,7 +38,7 @@
 ![Languages](https://skillicons.dev/icons?i=js,ts,html,css,bash,python,react,nodejs)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=vscode,aftereffects,photoshop,github,git,neovim)
+![Tools](https://skillicons.dev/icons?i=aftereffects,photoshop,github,git,neovim)
 
 ## 📊 GitHub Stats
 
