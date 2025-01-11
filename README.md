@@ -50,6 +50,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=coderzawad&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+
 <h3 align="center">"Time is money" - Benjamin Franklin</h3>
 
 ---
