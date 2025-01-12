@@ -42,9 +42,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderzawad&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=coderzawad&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
