@@ -14,7 +14,7 @@
 - 🤝 Open to assistance or discussions about **React JS**
 - 👨‍💻 Check out my portfolio at [coderzawad](https://zawad.vercel.app/)
 - 💬 Ask me about **React, Express, Vanilla JS, Node JS**
-- 📫 Reach me at **zawad@devsnest.llc**
+- 📫 Reach me at **coderzawad@gmail.com**
 - ⚡ Fun fact: **I believe I have a great sense of humor!**
 
 ## 🌐 Connect with me
