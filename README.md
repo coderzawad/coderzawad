@@ -44,12 +44,13 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderzawad&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=coderzawad&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ruddy-rho.vercel.app?user=coderzawad&theme=dark&border_radius=5.8&short_numbers=true&background=45%2C8E2A82%2C000000" alt="GitHub Streak" /></a>
 </p>
+
 
 <h3 align="center">"Time is money" - Benjamin Franklin</h3>
 
