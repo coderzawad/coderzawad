@@ -44,7 +44,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderzawad&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=coderzawad&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
