@@ -52,6 +52,9 @@
 </p>
 
 
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=coderzawad&theme=dark" alt="GitHub Streak" /></a>
+</p>
 <h3 align="center">"Time is money" - Benjamin Franklin</h3>
 
 ---
