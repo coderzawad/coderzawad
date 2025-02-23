@@ -1,64 +1,54 @@
-![Welcome](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
+<h2 align="left">Hi 👋! My name is Lewis and I'm a Web Dev</h2>
 
-<h1 align="center">Hi 👋, I'm Zawad</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Bangladesh</h3>
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coderzawad&label=Profile%20views&color=0e75b6&style=flat" alt="coderzawad" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderzawad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderzawad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🚀 About Me
+###
 
-- 🌱 Currently expanding my skills with **Shopify App Bridge**
-- 👯 Looking to collaborate on **innovative web applications**
-- 🤝 Open to assistance or discussions about **React JS**
-- 👨‍💻 Check out my portfolio at [coderzawad](https://zawad.vercel.app/)
-- 💬 Ask me about **React, Express, Vanilla JS, Node JS**
-- 📫 Reach me at **coderzawad@gmail.com**
-- ⚡ Fun fact: **I believe I have a great sense of humor!**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+</div>
 
-## 🌐 Connect with me
+###
 
-<p align="center">
-  <a href="https://discord.gg/w5Pr89PnV4" target="_blank" style="margin-right: 20px;">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" width="40" />
+<img align="right" height="180" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
+
+###
+
+<div align="left">
+  <a href="mailto:coderzawad@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=61564040035504" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg" alt="Facebook" height="40" width="40" />
+  <a href="https://zawad.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codesandbox&label=&color=A020F0&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   </a>
-</p>
+  <a href="https://discord.gg/w5Pr89PnV4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-## 💻 Tech Stack
+###
 
-### Operating Systems
-![OS](https://skillicons.dev/icons?i=apple,linux)
+<br clear="both">
 
-### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,html,css,bash,python,react,nodejs)
+<img src="https://raw.githubusercontent.com/coderzawad/coderzawad/output/snake.svg" alt="Snake animation" />
 
-### Tools
-![Tools](https://skillicons.dev/icons?i=aftereffects,photoshop,github,git,neovim)
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderzawad&theme=tokyonight" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ruddy-rho.vercel.app?user=coderzawad&theme=dark&border_radius=5.8&short_numbers=true&background=45%2C8E2A82%2C000000" alt="GitHub Streak" /></a>
-</p>
-
-
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=coderzawad&theme=dark" alt="GitHub Streak" /></a>
-</p>
-<h3 align="center">"Time is money" - Benjamin Franklin</h3>
-
----
-
-<p align="center">
-  Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions.
-</p>
+###
